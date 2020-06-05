@@ -1,4 +1,6 @@
-# STUDY KASUS HTML
+# Study Kasus HTML
+
+Penerapan Materi Yang Telah Dipelajari Kedalam Study Kasus.
 
 **index.html**
 
